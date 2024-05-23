@@ -1,1 +1,5 @@
-# training-2024
+# Training 2024 Repository
+
+## First header
+
+Hello, world.
