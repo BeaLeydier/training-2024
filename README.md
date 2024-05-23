@@ -1,5 +1,9 @@
 # Training 2024 Repository
 
-## First header
+## First
 
 Hello, world.
+
+## Second header
+
+This is a great sentence.
